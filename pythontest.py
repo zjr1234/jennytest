@@ -7,4 +7,4 @@ print (rslt[1])
 list=rslt[1]
 
 def fun(list):
-return list
+    return list
