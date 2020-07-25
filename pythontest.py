@@ -1,5 +1,10 @@
 # test.py
 
 import sys  #引入模块
-sys.argv[0]
-print (sys.argv[0])
+rslt=sys.argv[0]
+print rslt
+
+for i in range(0, len(rslt)):   
+list=rslt[1]
+print list
+
